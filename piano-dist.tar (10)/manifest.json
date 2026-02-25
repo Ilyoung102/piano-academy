@@ -1,0 +1,18 @@
+{
+  "name": "Piano Academy PRO",
+  "short_name": "Piano",
+  "description": "5단계 75곡 피아노 학습 앱 — MIDI 불러오기 · 자동재생 · 따라하기",
+  "start_url": "/piano-academy/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0c0a09",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/piano-academy/piano-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
